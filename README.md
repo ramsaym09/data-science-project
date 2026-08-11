@@ -2,7 +2,7 @@
 Public Data Science Project
 
 ## Executive Summary
-![Top up-session](/Top-up session.png)
+![Top up-session](Top-up session.png)
 
 ## Data Infrastructure and sales
 
